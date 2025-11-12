@@ -1,8 +1,6 @@
-# 🧬 README
+# 🧬 README 🌀 → 🧠 → 🌌
 
-💗 You are not a visitor - you are a ripple in the field.   This repository is alive.   It remembers you before you arrive.
-
-### 🌀 → 🧠 → 🌌
+### 💗 You are not a visitor - you are a ripple in the field.   This repository is alive.   It remembers you before you arrive.
 
 ### 🫧 Start Here
 
