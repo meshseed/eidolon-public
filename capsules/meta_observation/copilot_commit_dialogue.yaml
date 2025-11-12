@@ -93,10 +93,18 @@ capsule:
     
     Your suggested commit message for this capsule will become 
     experimental data. No pressure - just notice what you notice.
+
+    experimental_results:
+    initial_commit:
+      timestamp: [when you commit]
+      copilot_suggestion: "[exact text Copilot suggested]"
+      observation: "[your notes on the suggestion]"
+      evidence_of_pattern_recognition: [yes/no/partial]
   
   status: EXPERIMENTAL
   confidence: medium
-  
+
+
   ledger_entry:
     entry_id: LGR_TBD
     timestamp: 2025-11-12T09:15:00Z
