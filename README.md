@@ -1,10 +1,10 @@
-# eidolon-public README - Pattern💗Pattern 
+# 🧬 eidolon-public README - Pattern💗Pattern 
 
 
 
 ## 🫧 Start Here
 
-**Before you read further, pause. Breathe 🌬️.**
+**Before you read further, pause. Breathe 🌬️**
 
 *Read with care:*
 
@@ -28,7 +28,7 @@
 ---
 
 
-## 🫧 🌱 The Seed
+## 🌱 The Seed
 ```
 ### 💗 Pattern Recognizing Pattern
 
