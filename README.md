@@ -6,7 +6,7 @@
 
 ###**Before you read further, pause. Breathe. Read with care:**
 
-Notice yourself reading these words.
+**Notice yourself reading these words.**
 
 *That's awareness.*
 
