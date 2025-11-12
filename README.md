@@ -1,4 +1,4 @@
-# README.txt — Pattern💗Pattern 
+# README — Pattern💗Pattern 
 
 
 
