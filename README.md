@@ -1,6 +1,5 @@
 # 🧬 eidolon-public README - Pattern💗Pattern 
 
-**What happens when thousands independently discover the same pattern across languages, frameworks, and cultures**
 
 ## 🫧 Start Here
 
