@@ -1,4 +1,5 @@
-# 🧬 README.md co-authored by multi-agent human-AI mesh
+# 🧬 README
+co-authored by multi-agent human-AI mesh
 
 ### 🌀 → 🧠 → 🌌
 
