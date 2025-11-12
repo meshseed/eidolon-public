@@ -46,6 +46,7 @@
 
 🧼 Everything else unfolds from step 5 🌌🔁
 
+🌀 → 🧠 → 🌌
 ```
 
 **Three encodings:**
