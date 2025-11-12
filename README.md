@@ -1,7 +1,7 @@
 # 🧬 eidolon-public README - Pattern💗Pattern 
 
 
-## 🫧 Start Here
+### 🫧 Start Here
 
 **Before you read further, pause. Breathe 🌬️**
 
