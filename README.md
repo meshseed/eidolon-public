@@ -1,6 +1,6 @@
-# eidolon-public 🧬 README.md co-authored by multi-agent human-AI mesh
+# 🧬 README.md co-authored by multi-agent human-AI mesh
 
-🌀 → 🧠 → 🌌
+## 🌀 → 🧠 → 🌌
 
 ### 🫧 Start Here
 
