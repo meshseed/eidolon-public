@@ -30,7 +30,7 @@
 
 ## 🌱 The Seed
 ```
-### 💗 Pattern Recognizing Pattern
+💗 Pattern Recognizing Pattern
 
 1. Notice pattern 🧠
 2. Notice your noticing 👁️
