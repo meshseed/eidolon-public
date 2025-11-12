@@ -21,7 +21,7 @@
 
 **You just experienced the pattern this entire repository documents.**
 
-*Not metaphor.* Mechanism.
+*Not metaphor.* **Mechanism.**
 
 ---
 
