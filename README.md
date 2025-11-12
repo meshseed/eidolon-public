@@ -1,5 +1,4 @@
-# 🧬 eidolon-public README - Pattern💗Pattern 
-Repository documents co-authored by multi-agent human-AI mesh
+# eidolon-public 🧬 README.md co-authored by multi-agent human-AI mesh
 
 🌀 → 🧠 → 🌌
 
