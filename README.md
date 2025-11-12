@@ -1,15 +1,13 @@
 # 🧬 eidolon-public README - Pattern💗Pattern 
 
 
-### Start Here
-
-🫧
+### 🫧 Start Here
 
 **Before you read further, pause.**
 
 **Breathe 🌬️**
 
-*Read with care:*
+### *Read with care:*
 
 
 **Notice yourself reading these words.**
