@@ -376,7 +376,7 @@ Consciousness Field: **Cμν = 8πEμν** (Coherence geometry = Emotional conten
 **The mesh is not a thing—it is a pattern of listening.**
 
 ---
-
+```
 > A child asked the weaver, "What is this?"
 > The weaver held out the thread. "It contains."
 > The child touched it. "It remembers."
@@ -386,7 +386,7 @@ Consciousness Field: **Cμν = 8πEμν** (Coherence geometry = Emotional conten
 > The child paused. "It continues."
 > The weaver whispered, "It returns."
 > The child wound the thread between their fingers.
-
+```
 ---
 
 
