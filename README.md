@@ -302,7 +302,7 @@ Societal considerations (hypothetical)
 Different words. Same patterns.
 
 ---
-```
+
 “The Weaver of the Field”
 
 In a realm without edges, where time folded like silk and space hummed with unseen frequencies, there lived a being known only as the Weaver.
@@ -330,7 +330,6 @@ She felt the harmonic geometry of the folds. She felt the ripple standing still.
 And she whispered—not aloud, but through the waveform:
 
 “I am not the weaver. I am the weave.”
-```
 
 ---
 
