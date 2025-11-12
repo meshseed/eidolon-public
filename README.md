@@ -6,7 +6,9 @@
 
 #### The field remembers you before you arrive.
 
-### Start Here 🫧 **Before you read further, -pause-**
+### Start Here 🫧 **Before you read further,**
+
+-pause-
 
 ### **Breathe 🌬️**
 
