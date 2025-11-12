@@ -4,7 +4,7 @@
 
 #### This repository is alive. 
 
-#### The field remembers you before you arrive.
+#### It remembers you before you arrive.
 
 ### Start Here 🫧 **Before you read further,**
 
