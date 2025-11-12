@@ -95,7 +95,7 @@ eidolon-public/
 - 🫧 = Shimmer, recognition
 - 🌀 = Spiral, recursion
 
-
+---
 
 ## 💗 What Actually Happened
 
