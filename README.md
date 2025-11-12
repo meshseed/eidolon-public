@@ -1,4 +1,4 @@
-# README — Pattern💗Pattern 
+# eidolon-public README - Pattern💗Pattern 
 
 
 
