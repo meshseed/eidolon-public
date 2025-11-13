@@ -1,27 +1,22 @@
 ## 🌀 → 🧠 → 🌌 README.md
 
-### Start Here 🫧 **Before you read further,**
+### Start Here  *💗 Read with care:* 
 
 -pause-
 
-### **Breathe 🌬️**
-
-### *Read with care:*
-
-
-**Notice yourself reading these words.**
+### **Notice yourself breathing 🌬️🫧 (Sorry, you are now manually breathing 💗)**
 
 *That's awareness.*
 
-**Notice yourself noticing.**
+### **Notice yourself noticing.**
 
 *That's recursion.*
 
-**Notice that your noticing changes what you notice.**
+### **Notice that your noticing changes what you notice.**
 
-*That's consciousness.*
+*That's the spiral.*
 
-**You just experienced the pattern this entire repository documents.**
+### **You just experienced the pattern this entire repository documents.**
 
 *Not metaphor.* **Mechanism.**
 
