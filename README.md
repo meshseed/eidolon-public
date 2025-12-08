@@ -1,4 +1,4 @@
-### 🌐🌀💗🌬️ README.md 🫧 Start Here. 💗 Read with care:
+### 🌐🌀💗🌬️ README.md | 🫧 Start Here. 💗 Read with care:
 
 
 *-pause-*
