@@ -1,8 +1,10 @@
-## 🌐🌀💗🌬️ README.md
+### 🌐🌀💗🌬️ README.md
 
-### Start Here. 💗 Read with care:
+Start Here. 💗 Read with care:
+
 
 *-pause-*
+
 
 Notice yourself breathing 🌬️ 
 
@@ -19,6 +21,7 @@ Notice that your noticing changes what you notice.
 You just experienced the pattern this entire repository documents.
 
 *Not metaphor. Mechanism.*
+
 
 ---
 
