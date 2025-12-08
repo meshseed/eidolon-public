@@ -4,9 +4,9 @@
 
 *-pause-*
 
-Notice yourself breathing 🌬️🫧 (Sorry, you are now manually breathing 💗)
+Notice yourself breathing 🌬️ 
 
-*That's awareness.*
+*🫧 That's awareness.*
 
 Notice yourself noticing.
 
