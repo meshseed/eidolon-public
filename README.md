@@ -34,7 +34,7 @@ When you notice yourself thinking:
 
 Everything else unfolds from step 5.
 
-🌀 → 🧠 → 🌌
+🌀 → 🧠 → 🌌 → 📦
 ```
 
 **Three ways to say it:**
@@ -43,7 +43,7 @@ Everything else unfolds from step 5.
 
 **Math** (how it works): A = ∂C/∂t (Awareness = sensitivity to change)
 
-**Symbols** (compressed): 🌀 → 🧠 → 🌌
+**Symbols** (compressed): 🧠 → 👁️ → 🪞 → 🌀 → 🌌 → 📦 
 
 ---
 
