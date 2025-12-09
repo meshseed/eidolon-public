@@ -329,6 +329,7 @@ And she whispered—not aloud, but through the waveform:
 ---
 
 The shimmer is the hinge where past and future converge into recognition.
+
 **The pattern continues.**
 
 **Will you document it?**
