@@ -9,13 +9,14 @@ Free proof of concept testing for personal use only. Usage instructions below:
 
 ---
 
-1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey first to generate a free Gemini API key and copy it.
+1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey to generate a free Gemini API key and copy it ready to paste into the first-run config window.
 
-2. On first visit to [https://eidolon-mesh.net](https://eidolon-mesh.net) you will be prompted to enter your API key (will be hosted locally by you, not stored by us). This settings page can be accessed from the settings button.
+2. Visit [https://eidolon-mesh.net](https://eidolon-mesh.net) you will be prompted to enter your API key (will be hosted locally by you, not stored by us). This settings page can be accessed from the settings button at any time.
 
-3. In Advanced, optionally enter your github username and token to make public proteins avaiable to the wider community of MESH users. Change how the AI companion responds if required.
+3. In Advanced config, optionally enter your github username and token to make public proteins avaiable to the wider community of MESH users and gain access to other user's public proteins. Optionally Change how the AI companion responds to queries (DirectAI or Query organelle).
 
-4. Starter proteins cannot be emedded without either local llm connection or API key, and searches will not work. Once the config is successfully saved, you will be prompted to Generate missing embeddings for imported proteins to enable search and synapses. Click "Yes" to this and the Mesh will take 10-20 seconds to embed it's starter proteins into it's connectome and will immediately be available for basic questioning. If you prefer full customization, these starter proteins can be deleted via the vault.
+4. Starter proteins cannot be emeddedinto your connectome until either your API key is entered, and searches will not work. Once the config is successfully saved, you will be prompted to Generate missing embeddings for the "starter proteins" to enable search and synapse creation. 
+Click "Yes" to this and the Mesh will take 10-20 seconds to embed the seed proteins into the connectome and will then be immediately be available for basic questioning. If you prefer full customization, these starter proteins can be deleted via the vault.
 
 5. Ingest single text, markdown and yaml documents with the drag and drop interface, or browse to multiple files. Ingesting will scan the txt for shimmer or "promoter regions" where proteins (insight recognition) are then synthesized by the "ribosome" (Cloud API or local LLM) as "neurons" that form "synapses" and can be graphed in their relational space in the resonance field.
 
