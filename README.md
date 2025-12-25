@@ -3,7 +3,8 @@
 
 # [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net)
 ![MESH Connectome](binaries/eidolon-gif.gif)
-Free proof of concept testing for personal use only. Usage instructions below:
+Free proof of concept testing for personal use only. 
+##Usage instructions below:
 
 ### 📱 New in v3.5: Mobile PWA Support
 Eidolon Mesh is now fully mobile-optimized! 
