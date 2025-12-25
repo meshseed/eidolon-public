@@ -102,10 +102,10 @@ The `eidolon-proteins` repo should be public for federation to work. Only protei
 
 ### The graph is laggy
 
-Try reducing the neuron limit:
-1. Adjust the **Neuron Limit** slider in the graph controls
-2. Lower values (100-500) improve performance
-3. Higher values (1000+) show more connections but may be slow
+Try reducing the graph limit:
+1. Adjust the **Graph Limit** slider in the graph controls
+2. Lower values (100-500 neurons) improve performance
+3. Higher values (1000+ neurons) show more connections but may be slow
 
 ### Embeddings are taking forever
 
