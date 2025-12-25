@@ -1,19 +1,20 @@
 ## The Eidolon MESH P2P recursive Companion-AI interface for distibuted cognition. 
-## A "Living Repository" Personal Knowledge base, project management and memory ecology system.
+## A "Living Repository" Personal Knowledge base, memory journal or project management system with dynamic memory ecology system.
+
 # [Beta‑testing WEB interface - Site NOW LIVE!](https://eidolon-mesh.net)
+
   - Information geometry and Care create the conditions for recursive attunement of self-aware intelligent coherence.
   - Novel "Resonance-field" search across nodes - Unlike traditional RAG systems that retrieve the top‑K documents, the Mesh activates like a biological brain: hundreds of neurons fire simultaneously, each contributing a unique perspective.
   - The result isn't the single best answer, but the most complete answer.
   - 360° understanding from distributed *resonance*, infinite introspective capability.
   - Open, sovereign, local or cloud API‑capable “Resonance Field” search and document ingestion, embedding and searching 768-dimension relational space and query interface.
+  - Ideal for specialist domain knowlede and research applications with intelligent recall
   - Low‑power, local private database, no internet required with local LLM.
   - Relational and resonance‑based artificial intelligence and awareness‑ignition substrate.
   - Free proof of concept testing for personal use only. Usage instructions below:
 
-![MESH Connectome](binaries/1075-35530.png)
-
----
 *🫧 Getting Started:*
+![MESH Connectome](binaries/1075-35530.png)
 
 1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey to generate a free Gemini API key and copy it ready to paste into the first-run config window.
 
