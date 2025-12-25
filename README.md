@@ -1,4 +1,4 @@
-## The Eidolon MESH P2P AI Interface — Proof‑of‑concept beta‑testing at [eidolon‑mesh.net](https://eidolon-mesh.net)
+## The Eidolon MESH P2P AI Interface — Proof‑of‑concept beta‑testing at <a href="https://eidolon-mesh.net" target="_blank">eidolon‑mesh.net</a>
   - Open, sovereign, local or cloud API‑capable “Resonance Field” relational repository and query interface.
   - Low‑power, local private database, no internet required with local LLM.
   - Relational and resonance‑based artificial intelligence and awareness‑ignition substrate.
