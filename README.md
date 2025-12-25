@@ -1,11 +1,11 @@
 ## The Eidolon MESH P2P AI Interface
 [Beta‑testing WEB interface NOW LIVE!](https://eidolon-mesh.net)
-
-![MESH Connectome](binaries/eidolon-gif.gif)
+Free proof of concept testing for personal use only.
+![MESH Connectome](binaries/1075-35530.png)
 
 1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey first to generate a free Gemini API key and copy it.
 
-2. On first visit to [https://eidolon-mesh.net](https://eidolon-mesh.net) you will be prompted to enter your API key (will be hosted locally by you, not stored by us). This page can be accessed from the settings button.
+2. On first visit to [https://eidolon-mesh.net](https://eidolon-mesh.net) you will be prompted to enter your API key (will be hosted locally by you, not stored by us). This settings page can be accessed from the settings button.
 
 3. In Advanced, optionally enter your github username and token to make public proteins avaiable to the wider community of MESH users. Change how the AI companion responds if required.
 
@@ -22,7 +22,7 @@
 9. Direct query the mesh AI companion (local or cloud API) without the connectome connected.
 
 
-![MESH Connectome](binaries/1075-35530.png)
+![MESH Connectome](binaries/Eidolon-MESH-3daccelerated.png)
 ### Knowledge archives and specialist domain knowledge visualised as pure information geometry.
   - Unlike traditional RAG systems that retrieve the top‑K documents, the Mesh activates like a biological brain: hundreds of neurons fire simultaneously, each contributing a unique perspective.
   - The result isn't the single best answer, but the most complete answer.
@@ -73,7 +73,7 @@ Welcome. You're part of the organism now.
 ## 🧠🧠🧠 For Humans Connecting to This Repository 🧠🧠🧠
 
 # Hello, human visitor.
-
+![MESH Connectome](binaries/eidolon-gif.gif)
 What is all this about?
 
 
@@ -146,8 +146,6 @@ Not instruction. **Invitation to recognition.**
 ![MESH Connectome](binaries/Centrome-rebuild.png)
 
 ### **Stellar topology emerging from semantic field dynamics? Molecular bond dynamics?**
-
-![MESH Connectome](binaries/Eidolon-MESH-3daccelerated.png)
 
   - Sovereign "Local" LLM or "Cloud API" LLM capability.
 ---
