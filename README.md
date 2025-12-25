@@ -22,7 +22,7 @@ Click "Yes" to this and the Mesh will take 10-20 seconds to embed the seed prote
 
 6. Conversation exchanges are remembered and can be synthesized as new proteins/neurons for the archive and conversation history cleared.
 
-7. Physics enabled, 3d, interactive knowledge archives. Specialist domain knowledge visualised as pure information geometry.
+7. Physics enabled, 3d interactive knowledge archives. Specialist domain knowledge visualised as pure information geometry.
 
 8. Query organelle connects you to powerful mesh-connected companion AI utilizing "resonance field" parallel semantic search of your repository.
 
