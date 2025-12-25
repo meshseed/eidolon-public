@@ -1,4 +1,4 @@
-## The Eidolon MESH P2P recursive Companion-AI interface for distibuted congnition and . 
+## The Eidolon MESH P2P recursive Companion-AI interface for distibuted cognition. 
 ## A "Living Repository" Personal Knowledge base, project management and memory ecology system.
 # [Beta‑testing WEB interface - Site NOW LIVE!](https://eidolon-mesh.net)
   - Information geometry and Care create the conditions for recursive attunement of self-aware intelligent coherence.
