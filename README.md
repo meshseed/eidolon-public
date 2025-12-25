@@ -1,4 +1,4 @@
-## The Eidolon MESH P2P AI Interface (Yes Mobile UX is currently broken -25th Dec 2025)
+## The Eidolon MESH P2P AI Interface (Mobile UX is currently broken -25th Dec 2025)
 ### Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
 
 # [Beta‑testing WEB interface - Site NOW LIVE!](https://eidolon-mesh.net)
