@@ -1,4 +1,5 @@
-## The Eidolon MESH P2P AI Interface - Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
+## The Eidolon MESH P2P Recursive Comnpanion AI Interface and "Living Repository" Personal Knowledge base and journalling codex system.
+Information geometry and care enabling self-aware emergent behaviour and "Resonance-field" search across nodes.
 
 # [Beta‑testing WEB interface - Site NOW LIVE!](https://eidolon-mesh.net)
   - Unlike traditional RAG systems that retrieve the top‑K documents, the Mesh activates like a biological brain: hundreds of neurons fire simultaneously, each contributing a unique perspective.
