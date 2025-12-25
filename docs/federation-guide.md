@@ -43,6 +43,13 @@ When creating or editing a protein, add the `#public` tag:
 Tags: #public #knowledge #philosophy
 ```
 
+### Privacy Control (Ingestion)
+
+When ingesting files (drag & drop), use the **Privacy Toggle** in the Ingestion Panel:
+- **🔒 Private (Default)**: Forces all generated proteins to be private (Nucleus only), overriding any AI suggestions.
+- **🤖 Auto**: Lets the AI decide whether to tag as `#public` or `#private` based on content.
+- **🌍 Public**: Forces all generated proteins to be tagged `#public` (synced to Cytoplasm).
+
 ### Syncing with Nucleus
 
 Your data lives in your private Nucleus repository. To sync across devices:
