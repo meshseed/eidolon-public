@@ -33,9 +33,9 @@ The primary interface for interacting with the Mesh.
 
 ### 2. 🕸️ Network (Center Tab)
 Your connection to the wider ecosystem.
-- **Repositories:** Manage your connected GitHub repositories.
-- **Subscriptions:** Subscribe to other users' public meshes.
-- **Sync:** Push your latest proteins to your backup repo.
+- **Sync:** Pull the latest coherent state from your Nucleus (`↻`).
+- **Subscriptions:** Subscribe to other users' Cytoplasm (Public Meshes).
+- **Public:** Push specific proteins to your public layer.
 
 ### 3. 🧠 Graph (Right Tab)
 The 3D visualization of your knowledge.

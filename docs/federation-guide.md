@@ -24,12 +24,14 @@ Federation allows you to share proteins with other mesh instances and subscribe 
 
 ### 2. Configure in Eidolon Mesh
 
-1. Open **Settings → Advanced**
+1. Open **Settings**
 2. Paste your GitHub token
-3. Enter your GitHub username
+3. (Optional) Enter an **Organization Name** if using an org
 4. Click **"Save & Close"**
 
-The mesh will automatically create a `eidolon-proteins` repository in your GitHub account.
+The mesh will perform "Mitosis" and automatically create:
+- **`eidolon-nucleus`** (Private)
+- **`eidolon-proteins`** (Public)
 
 ## Sharing Proteins
 
@@ -41,12 +43,13 @@ When creating or editing a protein, add the `#public` tag:
 Tags: #public #knowledge #philosophy
 ```
 
-### Manual Sync (Optional)
+### Syncing with Nucleus
 
-Proteins sync automatically, but you can force a sync:
+Your data lives in your private Nucleus repository. To sync across devices:
 
 1. Go to **🕸️ Network** tab
-2. Click **"Push to GitHub"**
+2. Click the **`↻` Sync** button
+3. This pulls the latest state from your Nucleus repo
 
 ## Subscribing to Other Meshes
 

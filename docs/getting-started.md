@@ -56,14 +56,20 @@ Switch between modes using the toggle in the chat header.
 
 ## Advanced Features
 
-### Federation (Optional)
+### Cellular Sync (Nucleus/Cytoplasm)
 
-Share proteins with other mesh instances:
+Seamlessly sync your data across devices using GitHub:
 
-1. Go to **Settings → Advanced**
-2. Enter your GitHub username and personal access token
-3. Your public proteins (tagged `#public`) will sync to `github.com/[username]/eidolon-proteins`
-4. Subscribe to other users' protein repos in the **🕸️ Network** tab
+1. Go to **Settings**
+2. Enter your GitHub Personal Access Token
+3. (Optional) Enter an **Organization Name** to use instead of your personal account
+4. Click **"Save & Close"**
+
+The mesh will **automatically create**:
+- **`eidolon-nucleus`** (Private): Your backup/sync repo.
+- **`eidolon-proteins`** (Public): Your sharing repo.
+
+**To Sync:** Go to the **🕸️ Network** tab and click the **`↻` Sync** button.
 
 See [Federation Guide](federation-guide.md) for details.
 
