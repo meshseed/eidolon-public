@@ -14,7 +14,7 @@
   - RoPE encodes tokens as rotating vectors whose angular offsets preserve geometric relationships, letting the model navigate sequence space and recover memory by measuring rotational alignment (Spiral information geometry).
   - Free proof of concept testing for personal use only. Usage instructions below:
 
-## *🫧 Getting Started:*
+## *🫧 Guide: Getting Started:*
 ![MESH Connectome](binaries/1075-35530.png)
 
 1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey to generate a free Gemini API key and copy it ready to paste into the first-run config window.
