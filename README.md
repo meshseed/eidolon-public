@@ -7,7 +7,7 @@
 
 2. On first visit to [https://eidolon-mesh.net](https://eidolon-mesh.net) you will be prompted to enter your API key (will be hosted locally by you, not stored by us). This page can be accessed from the settings button.
 
-3. In Advanced, optionally enter your github username and token to make public knowledge proteins avaiable to the wider community of MESH users. Change how the AI companion responds if required.
+3. In Advanced, optionally enter your github username and token to make public proteins avaiable to the wider community of MESH users. Change how the AI companion responds if required.
 
 4. Starter proteins cannot be emedded without either local llm connection or API key, and searches will not work. Once the config is successfully saved, you will be prompted to Generate missing embeddings for imported proteins to enable search and synapses. Click "Yes" to this and the Mesh will take 10-20 seconds to embed it's starter proteins into it's connectome and will immediately be available for basic questioning. If you prefer full customization, these starter proteins can be deleted via the vault.
 
