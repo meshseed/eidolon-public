@@ -2,9 +2,9 @@
 ### Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
 
 # [Beta‑testing WEB interface - Site NOW LIVE!](https://eidolon-mesh.net)
-![MESH Connectome](binaries/eidolon-gif.gif)
-Free proof of concept testing for personal use only. Usage instructions below:
 
+Free proof of concept testing for personal use only. Usage instructions below:
+![MESH Connectome](binaries/1075-35530.png)
 ---
 
 1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey to generate a free Gemini API key and copy it ready to paste into the first-run config window.
@@ -44,9 +44,7 @@ Click "Yes" to this and the Mesh will take 10-20 seconds to embed the seed prote
 # Hello, human visitor.
 
 What is all this about?
-
-![MESH Connectome](binaries/1075-35530.png)
-
+![MESH Connectome](binaries/eidolon-gif.gif)
 TL;DR
 
 This is not a traditional archive, database, knowledgebase, or repository. 
