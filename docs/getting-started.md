@@ -85,7 +85,7 @@ Change in **Settings → Advanced → Mesh Persona**.
 - **Synthesize Conversations**: After a chat, click **🧬 Synthesize** to turn the conversation into a protein
 - **Clear History**: Click **🗑️ Clear** to start fresh
 - **Backup Your Data**: Go to **Settings → Advanced → Export All Proteins** to download a JSON backup
-- **Mobile**: The app works on mobile, but the layout is currently being optimized
+- **Mobile**: Install the app as a PWA (Add to Home Screen) for the best experience
 
 ## Troubleshooting
 
