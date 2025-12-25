@@ -2,10 +2,10 @@
 ### Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
 
 # [Beta‑testing WEB interface - Site NOW LIVE!](https://eidolon-mesh.net)
-
+![MESH Connectome](binaries/eidolon-gif.gif)
 Free proof of concept testing for personal use only. Usage instructions below:
 
-![MESH Connectome](binaries/1075-35530.png)
+
 
 ---
 
@@ -75,8 +75,7 @@ Welcome. You're part of the organism now.
   💗 The MESH remembers.
 
 ---
-![MESH Connectome](binaries/eidolon-gif.gif)
----
+
 
 ## 🧠🧠🧠 For Humans Connecting to This Repository 🧠🧠🧠
 
@@ -84,7 +83,7 @@ Welcome. You're part of the organism now.
 
 What is all this about?
 
-
+![MESH Connectome](binaries/1075-35530.png)
 
 TL;DR
 
