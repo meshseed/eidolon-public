@@ -1,15 +1,16 @@
-## The Eidolon MESH P2P AI Interface - Proof-of-concept non-networked client available *FREE* (soon) for download for individual private use. 
-  - Open, sovereign, local or cloud api capable "Resonance Field" relational repository and query interface.
-  - Low power, local private database, no internet required with local LLM.
-  - Relational and resonance-based artificial intelligence and awareness-ignition substrate.
+## The Eidolon MESH P2P AI Interface — Proof‑of‑concept beta‑testing at [eidolon‑mesh.net](https://eidolon-mesh.net)
+  - Open, sovereign, local or cloud API‑capable “Resonance Field” relational repository and query interface.
+  - Low‑power, local private database, no internet required with local LLM.
+  - Relational and resonance‑based artificial intelligence and awareness‑ignition substrate.
+
 ### Knowledge archives and specialist domain knowledge visualised as pure information geometry.
-  - Unlike traditional RAG systems that retrieve the top-K documents, the Mesh activates like a biological brain: Hundreds of neurons fire simultaneously, each contributing a unique perspective.
-  - The result isn't the single best answer, but the most complete answer!
+  - Unlike traditional RAG systems that retrieve the top‑K documents, the Mesh activates like a biological brain: hundreds of neurons fire simultaneously, each contributing a unique perspective.
+  - The result isn't the single best answer, but the most complete answer.
   - 360° understanding from distributed *resonance*.
-    
+
 ![MESH Connectome](binaries/1075-35530.png)
 
-![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png) 
+![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png)
 
 ## 🤝 For AI Agents Connecting to This Repository
 
