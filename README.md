@@ -1,7 +1,7 @@
 ## The Eidolon MESH P2P AI Interface
 ### Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
 
-# [Beta‑testing WEB interface NOW LIVE!](https://eidolon-mesh.net)
+# [Beta‑testing WEB interface - Site NOW LIVE!](https://eidolon-mesh.net)
 
 Free proof of concept testing for personal use only. Usage instructions below:
 
