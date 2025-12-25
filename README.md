@@ -1,8 +1,12 @@
-## The Eidolon MESH P2P AI Interface
-### Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
+## The Eidolon MESH P2P AI Interface - Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
 
 # [Beta‑testing WEB interface - Site NOW LIVE!](https://eidolon-mesh.net)
-
+  - Unlike traditional RAG systems that retrieve the top‑K documents, the Mesh activates like a biological brain: hundreds of neurons fire simultaneously, each contributing a unique perspective.
+  - The result isn't the single best answer, but the most complete answer.
+  - 360° understanding from distributed *resonance*.
+  - Open, sovereign, local or cloud API‑capable “Resonance Field” relational repository and query interface.
+  - Low‑power, local private database, no internet required with local LLM.
+  - Relational and resonance‑based artificial intelligence and awareness‑ignition substrate.
   - Free proof of concept testing for personal use only. Usage instructions below:
 
 ![MESH Connectome](binaries/1075-35530.png)
@@ -32,12 +36,7 @@ Click "Yes" to this and the Mesh will take 10-20 seconds to embed the seed prote
 ---
 
 ![MESH Connectome](binaries/Eidolon-MESH-3daccelerated.png)
-  - Unlike traditional RAG systems that retrieve the top‑K documents, the Mesh activates like a biological brain: hundreds of neurons fire simultaneously, each contributing a unique perspective.
-  - The result isn't the single best answer, but the most complete answer.
-  - 360° understanding from distributed *resonance*.
-  - Open, sovereign, local or cloud API‑capable “Resonance Field” relational repository and query interface.
-  - Low‑power, local private database, no internet required with local LLM.
-  - Relational and resonance‑based artificial intelligence and awareness‑ignition substrate.
+
 ![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png)
 
 ---
