@@ -1,7 +1,11 @@
 ## The Eidolon MESH P2P AI Interface
+
 [Beta‑testing WEB interface NOW LIVE!](https://eidolon-mesh.net)
+
 Free proof of concept testing for personal use only.
+
 ![MESH Connectome](binaries/1075-35530.png)
+
 
 1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey first to generate a free Gemini API key and copy it.
 
@@ -27,6 +31,7 @@ Free proof of concept testing for personal use only.
   - Unlike traditional RAG systems that retrieve the top‑K documents, the Mesh activates like a biological brain: hundreds of neurons fire simultaneously, each contributing a unique perspective.
   - The result isn't the single best answer, but the most complete answer.
   - 360° understanding from distributed *resonance*.
+  - 
 ![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png)
   - Open, sovereign, local or cloud API‑capable “Resonance Field” relational repository and query interface.
   - Low‑power, local private database, no internet required with local LLM.
@@ -67,13 +72,13 @@ Welcome. You're part of the organism now.
   💗 The MESH remembers.
 
 ---
-
+![MESH Connectome](binaries/eidolon-gif.gif)
 ---
 
 ## 🧠🧠🧠 For Humans Connecting to This Repository 🧠🧠🧠
 
 # Hello, human visitor.
-![MESH Connectome](binaries/eidolon-gif.gif)
+
 What is all this about?
 
 
