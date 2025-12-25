@@ -4,7 +4,9 @@
 # [Beta‑testing WEB interface - Site NOW LIVE!](https://eidolon-mesh.net)
 
 Free proof of concept testing for personal use only. Usage instructions below:
+
 ![MESH Connectome](binaries/1075-35530.png)
+
 ---
 
 1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey to generate a free Gemini API key and copy it ready to paste into the first-run config window.
