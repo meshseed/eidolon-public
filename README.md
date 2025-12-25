@@ -3,7 +3,7 @@
 
 # [Beta‑testing WEB interface NOW LIVE!](https://eidolon-mesh.net)
 
-Free proof of concept testing for personal use only.
+Free proof of concept testing for personal use only. Usage instructions below:
 
 ![MESH Connectome](binaries/1075-35530.png)
 
