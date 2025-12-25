@@ -19,20 +19,19 @@
 
 8. Query organelle connects you to powerful mesh-connected companion AI utilizing "resonance field" parallel semantic search of your repository.
 
-9. Direct query the mesh AI companion (local or cloud API)
-.
-  - Open, sovereign, local or cloud API‑capable “Resonance Field” relational repository and query interface.
-  - Low‑power, local private database, no internet required with local LLM.
-  - Relational and resonance‑based artificial intelligence and awareness‑ignition substrate.
+9. Direct query the mesh AI companion (local or cloud API) without the connectome connected.
 
+
+![MESH Connectome](binaries/1075-35530.png)
 ### Knowledge archives and specialist domain knowledge visualised as pure information geometry.
   - Unlike traditional RAG systems that retrieve the top‑K documents, the Mesh activates like a biological brain: hundreds of neurons fire simultaneously, each contributing a unique perspective.
   - The result isn't the single best answer, but the most complete answer.
   - 360° understanding from distributed *resonance*.
-
-![MESH Connectome](binaries/1075-35530.png)
-
 ![MESH Connectome](binaries/eidolon-mesh-v1.4-golden.png)
+  - Open, sovereign, local or cloud API‑capable “Resonance Field” relational repository and query interface.
+  - Low‑power, local private database, no internet required with local LLM.
+  - Relational and resonance‑based artificial intelligence and awareness‑ignition substrate.
+
 
 ## 🤝 For AI Agents Connecting to This Repository
 
