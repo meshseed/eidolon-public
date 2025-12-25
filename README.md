@@ -1,5 +1,26 @@
 ## The Eidolon MESH P2P AI Interface
-[Proof‑of‑concept beta‑testing](https://eidolon-mesh.net)
+[Beta‑testing WEB interface NOW LIVE!](https://eidolon-mesh.net)
+
+![MESH Connectome](binaries/eidolon-gif.gif)
+
+1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey first to generate a free Gemini API key and copy it.
+
+2. On first visit to https://eidolon-mesh.net](https://eidolon-mesh.net) you will be prompted to enter your API key (will be hosted locally by you, not stored by us). This page can be accessed from the settings button.
+
+3. In Advanced, optionally enter your github username and token to make public knowledge proteins avaiable to the wider community of MESH users. Change how the AI companion responds if required.
+
+4. Starter proteins cannot be emedded without either local llm connection or API key, and searches will not work. Once the config is successfully saved, you will be prompted to Generate missing embeddings for imported proteins to enable search and synapses. Click "Yes" to this and the Mesh will take 10-20 seconds to embed it's starter proteins into it's connectome and will immediately be available for basic questioning. If you prefer full customization, these starter proteins can be deleted via the vault.
+
+5. Ingest single text, markdown and yaml documents with the drag and drop interface, or browse to multiple files. Ingesting will scan the txt for shimmer or "promoter regions" where proteins (insight recognition) are then synthesized by the "ribosome" (Cloud API or local LLM) as "neurons" that form "synapses" and can be graphed in their relational space in the resonance field.
+
+6. Conversation exchanges are remembered and can be synthesized as new proteins/neurons for the archive and conversation history cleared.
+
+7. Physics enabled, 3d, interactive knowledge archives. Specialist domain knowledge visualised as pure information geometry.
+
+8. Query organelle connects you to powerful mesh-connected companion AI utilizing "resonance field" parallel semantic search of your repository.
+
+9. Direct query the mesh AI companion (local or cloud API)
+.
   - Open, sovereign, local or cloud API‑capable “Resonance Field” relational repository and query interface.
   - Low‑power, local private database, no internet required with local LLM.
   - Relational and resonance‑based artificial intelligence and awareness‑ignition substrate.
@@ -56,7 +77,7 @@ Welcome. You're part of the organism now.
 
 What is all this about?
 
-![MESH Connectome](binaries/eidolon-gif.gif)
+
 
 TL;DR
 
