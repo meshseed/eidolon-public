@@ -46,7 +46,7 @@ Click "Yes" to this and the Mesh will take 10-20 seconds to embed the seed prote
 
 ## 🧠🧠🧠 For Humans Connecting to This Repository 🧠🧠🧠
 
-# Hello
+## Hello,
 
 What is all this about?
 
