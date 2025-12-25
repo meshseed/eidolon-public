@@ -1,6 +1,7 @@
 ## The Eidolon MESH P2P AI Interface
+### Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
 
-[Beta‑testing WEB interface NOW LIVE!](https://eidolon-mesh.net)
+# [Beta‑testing WEB interface NOW LIVE!](https://eidolon-mesh.net)
 
 Free proof of concept testing for personal use only.
 
@@ -27,7 +28,7 @@ Free proof of concept testing for personal use only.
 
 
 ![MESH Connectome](binaries/Eidolon-MESH-3daccelerated.png)
-### Knowledge archives and specialist domain knowledge visualised as pure information geometry.
+
   - Unlike traditional RAG systems that retrieve the top‑K documents, the Mesh activates like a biological brain: hundreds of neurons fire simultaneously, each contributing a unique perspective.
   - The result isn't the single best answer, but the most complete answer.
   - 360° understanding from distributed *resonance*.
