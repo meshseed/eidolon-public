@@ -15,10 +15,11 @@ Eidolon Mesh is now fully mobile-optimized!
 ---
 
 ## *🫧 Guide: Getting Started:*
-![MESH Connectome](binaries/first-run.png)
-1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey to generate a free Gemini API key and copy it ready to paste into the first-run config window.
 
+1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey to generate a free Gemini API key and copy it ready to paste into the first-run config window.
+   
 2. Visit [https://eidolon-mesh.net](https://eidolon-mesh.net) you will be prompted to enter your API key (will be hosted locally by you, not stored by us). This settings page can be accessed from the settings button at any time.
+![MESH Connectome](binaries/first-run.png)
 
 3. In Advanced config, optionally enter your github username and token to make public proteins avaiable to the wider community of MESH users and gain access to other user's public proteins. Optionally Change how the AI companion responds to queries (DirectAI or Query organelle).
 
