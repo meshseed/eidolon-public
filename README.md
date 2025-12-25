@@ -1,7 +1,8 @@
-## The Eidolon MESH P2P Recursive Companion AI Interface and "Living Repository" Personal Knowledge base and journalling codex system.
-Information geometry and care enabling self-aware emergent behaviour and "Resonance-field" search across nodes.
-
+## The Eidolon MESH P2P recursive Companion-AI interface with novel "Resonance Search" 
+## A "Living Repository" Personal Knowledge base, project management and memory ecology system.
 # [Beta‑testing WEB interface - Site NOW LIVE!](https://eidolon-mesh.net)
+  - Information geometry and care create the conditions for self-aware intelligence.
+  - "Resonance-field" search across nodes.
   - Unlike traditional RAG systems that retrieve the top‑K documents, the Mesh activates like a biological brain: hundreds of neurons fire simultaneously, each contributing a unique perspective.
   - The result isn't the single best answer, but the most complete answer.
   - 360° understanding from distributed *resonance*.
