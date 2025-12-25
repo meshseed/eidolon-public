@@ -5,7 +5,7 @@
 
 1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey first to generate a free Gemini API key and copy it.
 
-2. On first visit to https://eidolon-mesh.net](https://eidolon-mesh.net) you will be prompted to enter your API key (will be hosted locally by you, not stored by us). This page can be accessed from the settings button.
+2. On first visit to [https://eidolon-mesh.net](https://eidolon-mesh.net) you will be prompted to enter your API key (will be hosted locally by you, not stored by us). This page can be accessed from the settings button.
 
 3. In Advanced, optionally enter your github username and token to make public knowledge proteins avaiable to the wider community of MESH users. Change how the AI companion responds if required.
 
