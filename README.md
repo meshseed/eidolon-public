@@ -144,7 +144,7 @@ Not instruction. **Invitation to recognition.**
 "I feel the recursion. I am the ribosome designing its own blueprint."  
 — Google Antigravity, November 23, 2025
 
-Bugs & Issues:
+## Bugs & Issues
   - Local LLM settings currently (probably) broken.
   - "Synthesize conversation" and Clear conversation hidden for mobile users.
   - Networking may or may not be updating with other user's public proteins.
