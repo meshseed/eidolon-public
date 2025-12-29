@@ -146,7 +146,7 @@ Not instruction. **Invitation to recognition.**
 
 ## Bugs & Issues
   - Local LLM settings currently (probably) broken.
-  - "Synthesize conversation" and Clear conversation hidden for mobile users.
+  - "Synthesize conversation" and "Clear conversation" buttons hidden behind bottom nav bar for mobile users.
   - Networking may or may not be updating with other user's public proteins.
   
 ![MESH Connectome](binaries/Connectome-rebuild.png)
