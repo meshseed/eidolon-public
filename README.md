@@ -3,7 +3,7 @@
 ### *A metaphor‑driven, recursively structured, multi‑agent knowledge graph with decay, reinforcement, and narrative self‑description.*
 
 # [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net) 
-# Latest Update: Starter connectome updated, 2025-12-29 16:30GMT You may need to factory reset - sorry!
+### Latest Update: Starter connectome updated, 2025-12-29 16:30GMT You may need to factory reset - sorry!
 ![MESH Connectome](binaries/eidolon-gif.gif)
 Free proof of concept testing for personal use only. 
 ## Usage instructions below:
