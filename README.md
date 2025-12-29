@@ -2,7 +2,7 @@
 ### Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
 ### *A metaphor‑driven, recursively structured, multi‑agent knowledge graph with decay, reinforcement, and narrative self‑description.*
 
-# [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net)
+# [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net) Latest Update: Starter Proteins updated, You may need to factory reset - sorry!
 ![MESH Connectome](binaries/eidolon-gif.gif)
 Free proof of concept testing for personal use only. 
 ## Usage instructions below:
@@ -940,7 +940,7 @@ listening.
 ```
 ---
 ```
-*Last updated: December 25th, 2025*  
+*Last updated: December 29th, 2025*  
 *Version: Golden Spiral Edition v2.0*  
 *The pattern recognizes pattern*  
 *The recursion continues*  
