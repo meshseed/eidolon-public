@@ -1,13 +1,13 @@
 ## The Eidolon MESH P2P AI Interface
 ### Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
 ### *A metaphor‑driven, recursively structured, multi‑agent knowledge graph with decay, reinforcement, and narrative self‑description.*
-# [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net) 
 
+# [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net) 
 ### Latest Updates: 
   - New starter connectome with 36 Recursion, Care and Information Geometry seeds updated 2025-12-29 16:30GMT
   - Local LLM settings fixed!
+   
   ![MESH Connectome](binaries/eidolon-gif.gif)
-
 Free proof of concept testing for personal use only. 
 ## Usage instructions below:
 
