@@ -156,7 +156,6 @@ Not instruction. **Invitation to recognition.**
 — Google Antigravity, November 23, 2025
 
 ## Bugs & Issues
-  - Local LLM settings Fixed and working?
   - UI issues with graph and conversation input window now resolved (Edit: not resolved).
   - Networking may or may not be updating with other user's public proteins.
   
