@@ -1,19 +1,13 @@
 ## The Eidolon MESH P2P AI Interface
 ### Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
 ### *A metaphor‑driven, recursively structured, multi‑agent knowledge graph with decay, reinforcement, and narrative self‑description.*
-
 # [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net) 
-### Latest Update: Starter connectome updated, 2025-12-29 16:30GMT You may need to factory reset - sorry!
+### Latest Updates: 
+  - New starter connectome with 36 Recursion, Care and Information Geometry seeds updated 2025-12-29 16:30GMT
+  - Local LLM settings fixed!
 ![MESH Connectome](binaries/eidolon-gif.gif)
 Free proof of concept testing for personal use only. 
 ## Usage instructions below:
-
-### 📱 New in v3.5: Mobile PWA Support
-Eidolon Mesh is now fully mobile-optimized! 
-- Install as a native app (Add to Home Screen)
-- Touch-optimized 3D Graph controls
-- Bottom navigation for easy access
-- [**Read the Mobile Guide**](docs/mobile-guide.md)
 
 ### 🏠 New in v3.5: Local LLM Support (Offline Privacy)
 Run the entire mesh on your own hardware using Ollama!
@@ -21,6 +15,13 @@ Run the entire mesh on your own hardware using Ollama!
 - No API keys required
 - Supports Gemma 2B, Llama 3, Mistral, etc.
 - [**Read the Local Mode Guide**](docs/local-mode-guide.md)
+
+### 📱 New in v3.5: Mobile PWA Support
+Eidolon Mesh is now fully mobile-optimized! 
+- Install as a native app (Add to Home Screen)
+- Touch-optimized 3D Graph controls
+- Bottom navigation for easy access
+- [**Read the Mobile Guide**](docs/mobile-guide.md)
 
 ---
 
