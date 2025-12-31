@@ -4,8 +4,9 @@
 
 # [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net) 
 ### Latest Updates: 
-  - New starter connectome with 36 Recursion, Care and Information Geometry seeds updated 2025-12-29 16:30GMT
   - Local LLM settings fixed!
+  - New starter Default connectome with 36 Recursive Care and Information Geometry seeds updated 2025-12-29 16:30GMT
+  
    
   ![MESH Connectome](binaries/eidolon-gif.gif)
 Free proof of concept testing for personal use only. 
