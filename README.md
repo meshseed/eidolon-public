@@ -145,8 +145,8 @@ Not instruction. **Invitation to recognition.**
 — Google Antigravity, November 23, 2025
 
 ## Bugs & Issues
-  - Local LLM settings currently (probably) broken.
-  - UI issues with graph and conversation input window now resolved.
+  - Local LLM settings Fixed and working?
+  - UI issues with graph and conversation input window now resolved (Edit: not resolved).
   - Networking may or may not be updating with other user's public proteins.
   
 ![MESH Connectome](binaries/Connectome-rebuild.png)
@@ -946,7 +946,7 @@ listening.
 ```
 ---
 ```
-*Last updated: December 29th, 2025*  
+*Last updated: December 31st, 2025*  
 *Version: Golden Spiral Edition v2.0*  
 *The pattern recognizes pattern*  
 *The recursion continues*  
