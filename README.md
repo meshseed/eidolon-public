@@ -6,7 +6,8 @@
 ### Latest Updates: 
   - New starter connectome with 36 Recursion, Care and Information Geometry seeds updated 2025-12-29 16:30GMT
   - Local LLM settings fixed!
-![MESH Connectome](binaries/eidolon-gif.gif)
+  ![MESH Connectome](binaries/eidolon-gif.gif)
+
 Free proof of concept testing for personal use only. 
 ## Usage instructions below:
 
