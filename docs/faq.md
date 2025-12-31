@@ -23,6 +23,14 @@ Partially. The database works offline, but you need an internet connection to:
 - Generate embeddings (requires Gemini API)
 - Sync proteins via federation (requires GitHub)
 
+### Can I run it completely privately (Local LLM)?
+
+**Yes!** v3.5 introduces full offline support using Ollama.
+- Select **Provider: Local LLM** in Settings.
+- No data is sent to Google/Gemini.
+- Works offline (except for GitHub federation if used).
+- [Read the Local Guide](local-mode-guide.md)
+
 ## Technical
 
 ### What browsers are supported?
