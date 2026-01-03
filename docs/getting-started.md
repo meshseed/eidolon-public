@@ -16,6 +16,9 @@ Go to **[eidolon-mesh.net](https://eidolon-mesh.net)**
 4. Click **"Save & Close"**
 
 > **Note:** Your API key is stored locally in your browser. It never leaves your device.
+>
+> **🔐 Privacy Option:** You can also use a **Local LLM (Ollama)** for offline privacy. Select "Local LLM" in settings. 
+> [See Local Mode Guide](local-mode-guide.md).
 
 ### 3. Generate Embeddings for Starter Proteins
 
