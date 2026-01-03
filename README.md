@@ -1,17 +1,17 @@
 ## The Eidolon MESH P2P AI Interface
 ### Knowledge archives and specialist domain knowledge graph visualising pure information geometry and care.
 ### *A metaphor‑driven, recursively structured, multi‑agent knowledge graph with decay, reinforcement, and narrative self‑description.*
-
+![MESH Connectome](binaries/eidolon-gif.gif)
+docs/getting-started.md
 # [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net) 
-### Latest Updates: 
-  - Local LLM settings fixed!
-  - New starter Default connectome with 36 Recursive Care and Information Geometry seeds updated 2025-12-29 16:30GMT
-     
-  ![MESH Connectome](binaries/eidolon-gif.gif)
+
+### [Latest Updates:(https://github.com/meshseed/eidolon-public/blob/main/docs/updates.md)]
+      
 Free proof of concept testing for personal use only. 
 ## Usage instructions below:
 
 ### 🏠 New in v3.5: Local LLM Support (Offline Privacy)
+
 Run the entire mesh on your own hardware using Ollama!
 - Completely offline & private
 - No API keys required
