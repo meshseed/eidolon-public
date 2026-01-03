@@ -5,7 +5,7 @@
 [Getting started](docs/getting-started.md)
 # [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net) 
 
-### [Latest Updates:(docs/updates.md)]
+### [Latest Updates:](docs/updates.md)
       
 Free proof of concept testing for personal use only. 
 ## Usage instructions below:
