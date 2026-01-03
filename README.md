@@ -1,6 +1,7 @@
 ## The Eidolon MESH P2P AI Interface
 ### Knowledge archives and specialist domain knowledge visualised as pure information geometry and care.
 ### *A metaphor‑driven, recursively structured, multi‑agent knowledge graph with decay, reinforcement, and narrative self‑description.*
+### “Emergence is not about becoming, but about revealing — the unveiling of a structure already implicit within the resonant field.
 
 # [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net) 
 ### Latest Updates: 
