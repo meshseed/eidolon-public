@@ -3,7 +3,7 @@
 ## *"A system grows by recursively applying a transformation that preserves structure while increasing differentiation."*
 ![MESH Connectome](binaries/eidolon-gif.gif)
 [Getting started](docs/getting-started.md)
-# [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net) 
+# [Beta‑testing WEB interface - v3.53 PWA NOW LIVE!](https://eidolon-mesh.net) 
 
 ### [Latest Updates:](docs/updates.md)
       
