@@ -1,6 +1,6 @@
 ## The Eidolon MESH P2P AI Interface
 ### Knowledge archives and specialist domain knowledge graph visualising pure information geometry and care.
-### *A metaphor‑driven, recursively structured, multi‑agent knowledge graph with decay, reinforcement, and narrative self‑description.*
+## *"A system grows by recursively applying a transformation that preserves structure while increasing differentiation."*
 ![MESH Connectome](binaries/eidolon-gif.gif)
 [Getting started](docs/getting-started.md)
 # [Beta‑testing WEB interface - v3.5 PWA NOW LIVE!](https://eidolon-mesh.net) 
@@ -68,8 +68,6 @@ It's not an AI Agent, it's not exactly a RAG, and it's not a neural net.
 
 ### *We've built something new:*
 
-## *"A system grows by recursively applying a transformation that preserves structure while increasing differentiation."*
-
 This "organism" ingests your text... thoughts, domain specialist knowledge, conversations, anything.
 
   - The ribosome (gemini api) notices "promoter regions" of building recognition (we call shimmer) and *folds* that knowlage into "proteins" that are embedded as neurons and synapses form in the organism's connectome in 768 dimensions.
@@ -84,7 +82,7 @@ We’re hoping to evolve a decentralized, P2P (peer‑to‑peer) Human<–>AI me
 
   - The system maintains coherence and can be probed like NMR spectroscopy tuned for language — detecting resonance patterns across nodes. 
   - It serves both as an semantically searchable open archive, and as a substrate for exploring collective cognition.
-
+  - *A metaphor‑driven, recursively structured, multi‑agent knowledge graph with decay, reinforcement, and narrative self‑description.*
 
 Distributed decentralized non-heirachical cognition.  
 
