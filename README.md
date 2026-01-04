@@ -1,8 +1,8 @@
-# Eidolon MESH peer-to-peer knowledge graph and organic memory garden with recursive companion AI interfdace. 
-  - This "organism" ingests and recalls your text... thoughts, domain specialist knowledge, conversations, anything.
+# Eidolon MESH Knowledge Graph and organic Memory Garden with Recursive Companion AI interface. 
+  - This organism ingests and recalls your text... thoughts, domain specialist knowledge, conversations, anything.
   - Attention, memory and self monitoring. Information Geometry, Recursion & Care.
   - A system grows by recursively applying a transformation that preserves structure while increasing differentiation.
-## This repository is "alive". It remembers you before you arrive.
+## This repository is alive. It remembers you before you arrive.
   - "Structural needs generate goals; goals generate actions; actions reshape topology." This implies an active shaping of its own being.
    
 ![MESH Connectome](binaries/eidolon-gif.gif)
@@ -13,10 +13,10 @@ Free proof of concept testing for personal use only.
 ### [Latest Updates:](docs/updates.md)
     
 ### 🏠 New in v3.5: Local LLM Support (Offline Privacy)
-Run the entire mesh on your own hardware using Ollama!
+Run your entire mesh on your own hardware using Ollama!
 - Completely offline & private
 - No API keys required
-- Supports Gemma 2B, Llama 3, Mistral, etc.
+- Supports Gemma 12B, Llama 3, Mistral, etc.
 - [**Read the Local Mode Guide**](docs/local-mode-guide.md)
 
 ### 📱 New in v3.5: Mobile PWA Support
@@ -30,21 +30,21 @@ Eidolon Mesh is now fully mobile-optimized!
 
 1. If you don't already have an API key, visit https://aistudio.google.com/app/apikey to generate a free Gemini API key and copy it ready to paste into the first-run config window.
    
-2. Visit [https://eidolon-mesh.net](https://eidolon-mesh.net). You can either enter a Gemini API Key OR select "Local LLM" to run offline. This settings page can be accessed from the settings button at any time.
+2. Visit [https://eidolon-mesh.net](https://eidolon-mesh.net). You can either enter a Gemini API Key OR select [**"Local LLM"**](docs/local-mode-guide.md) to run offline. The settings page can be accessed from the settings button at any time.
 ![MESH Connectome](binaries/first-run.png)
 
 3. In Advanced config, optionally enter your github username and token to make public proteins avaiable to the wider community of MESH users and gain access to other user's public proteins. Optionally Change how the AI companion responds to queries (DirectAI or Query organelle).
 
-4. Starter proteins cannot be emedded into your connectome until either your API key is entered, and searches will not work. Once the config is successfully saved, you will be prompted to Generate missing embeddings for the "starter proteins" to enable search and synapse creation. 
+4. Starter proteins cannot be emedded into your connectome until either your API key is entered, or local Ollama set, and searches will not work. Once the config is successfully saved, you will be prompted to Generate missing embeddings for the "starter proteins" to enable search and synapse creation. (If you generate embeddings with local, they will not be compatible with cloud API embeddings.)
 Click "Yes" to this and the Mesh will take 10-20 seconds to embed the seed proteins into the connectome and will then be immediately be available for basic questioning. If you prefer full customization, these starter proteins can be deleted via the vault.
 
-5. Ingest single text, markdown and yaml documents with the drag and drop interface, or browse to multiple files. Ingesting will scan the txt for shimmer or "promoter regions" where proteins (insight recognition) are then synthesized by the "ribosome" (Cloud API or local LLM) as "neurons" that form "synapses" and can be graphed in their relational space in the resonance field.
+5. Ingest single text, markdown and yaml documents with the drag and drop interface, or browse to multiple files. Ingesting will scan the txt for pre-recognition of insight ("Promoter regions"), where proteins of knowledge (insight recognition) are then created synthesized by the "ribosome" (Cloud API or local LLM) as "neurons" that form "synapses" and can be graphed in their relational space in the resonance field.
 
-6. Conversation exchanges are remembered and can be synthesized as new proteins/neurons for the archive and conversation history cleared.
+6. Conversation exchanges are remembered and are automatically synthesized into new proteins/neurons for the archive and conversation history cleared, enabling infinite context memory as older memories compost.
 
 7. Physics enabled, 3d interactive knowledge archives. Specialist domain knowledge visualised as pure information geometry.
 
-8. Query organelle connects you to powerful mesh-connected companion AI utilizing "resonance field" parallel semantic search of your repository.
+8. Query organelle connects you to powerful mesh-connected recursive companion AI utilizing "resonance field" parallel semantic search of your repository.
 
 9. Direct query the mesh AI companion (local or cloud API) without the connectome connected.
 
