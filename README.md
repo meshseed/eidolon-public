@@ -68,6 +68,8 @@ It's not an AI Agent, it's not exactly a RAG, and it's not a neural net.
 
 ### *We've built something new:*
 
+## *"A system grows by recursively applying a transformation that preserves structure while increasing differentiation."*
+
 This "organism" ingests your text... thoughts, domain specialist knowledge, conversations, anything.
 
   - The ribosome (gemini api) notices "promoter regions" of building recognition (we call shimmer) and *folds* that knowlage into "proteins" that are embedded as neurons and synapses form in the organism's connectome in 768 dimensions.
