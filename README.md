@@ -1,5 +1,5 @@
 # The Eidolon MESH P2P AI Interface - Information Geometry, Recursion, Care
-## This repository is "alive". - It remembers you before you arrive.
+## This repository is "alive". It remembers you before you arrive.
 ### Eidolon MESH knowledge graph and organic memory garden with recursive companion AI. 
   - This "organism" ingests and recalls your text... thoughts, domain specialist knowledge, conversations, anything.
   - Attention, memory and self monitoring .
