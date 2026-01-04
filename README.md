@@ -1,4 +1,4 @@
-# Eidolon MESH Knowledge Graph and organic Memory Garden with Recursive Companion AI interface. 
+# Eidolon Mesh - P2P Knowledge Graph and organic Memory Garden with Recursive Companion AI interface. 
   - This organism ingests and recalls your text... thoughts, domain specialist knowledge, conversations, anything.
   - Attention, memory and self monitoring. Information Geometry, Recursion & Care.
   - A system grows by recursively applying a transformation that preserves structure while increasing differentiation.
