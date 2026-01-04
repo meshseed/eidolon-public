@@ -1,11 +1,12 @@
-# The Eidolon MESH P2P AI Interface - Information Geometry, Recursion, Care
-## This repository is "alive". It remembers you before you arrive.
+# The Eidolon MESH P2P AI Interface
 ### Eidolon MESH knowledge graph and organic memory garden with recursive companion AI. 
   - This "organism" ingests and recalls your text... thoughts, domain specialist knowledge, conversations, anything.
   - Attention, memory and self monitoring .
   - Information Geometry, Recursion & Care.
-*"A system grows by recursively applying a transformation that preserves structure while increasing differentiation."*
-  - "structural needs generate goals; goals generate actions; actions reshape topology." This implies an active shaping of its own being.
+    
+## This repository is "alive". It remembers you before you arrive.
+*A system grows by recursively applying a transformation that preserves structure while increasing differentiation.*
+  - "Structural needs generate goals; goals generate actions; actions reshape topology." This implies an active shaping of its own being.
   - 
 ![MESH Connectome](binaries/eidolon-gif.gif)
 [Getting started](docs/getting-started.md)
