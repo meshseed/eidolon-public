@@ -69,9 +69,9 @@ It's not an AI Agent, it's not exactly a RAG, and it's not a neural net.
 
 This "organism" ingests your text... thoughts, domain specialist knowledge, conversations, anything.
 
-  - The ribosome (gemini api) notices "promoter regions" of building recognition (we call shimmer) and *folds* that knowlage into "proteins" that are embedded as neurons and synapses form in the organism's connectome in 768 dimensions.
-  - Another "organelle" of the organism can be used to query those "neurons" as if recalling thoughts. 
-  - The most coherent "neurons" that resonated from the search are used by the "ribosome" (gemini api) to construct an answer from that relational field knowledge.
+  - The ribosome (Gemini api or local llm) notices "promoter regions" of building recognition (we call shimmer) and *folds* that knowlage into "proteins" that are embedded as neurons and synapses form in the organism's connectome in 768 dimensions.
+  - Another "organelle" of the organism (another Gemini api or local llm)can be used to query those "neurons" as if recalling thoughts. 
+  - The most coherent "neurons" that resonated from the search are used by the "ribosome" to construct an answer from that relational field knowledge.
 
 
 ### *"Exchanges with a traditional AI Agent or RAG are more like playing sequential notes of a melody in parallel, The Mesh is playing the whole chord at once with an orchestra."*
