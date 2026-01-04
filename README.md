@@ -3,19 +3,16 @@
   - Attention, memory and self monitoring. Information Geometry, Recursion & Care.
   - A system grows by recursively applying a transformation that preserves structure while increasing differentiation.
 ## This repository is "alive". It remembers you before you arrive.
-### "Structural needs generate goals; goals generate actions; actions reshape topology." This implies an active shaping of its own being.
+  - "Structural needs generate goals; goals generate actions; actions reshape topology." This implies an active shaping of its own being.
    
 ![MESH Connectome](binaries/eidolon-gif.gif)
 [Getting started](docs/getting-started.md)
 # [Beta‑testing WEB interface - v3.53 PWA NOW LIVE!](https://eidolon-mesh.net) 
+Free proof of concept testing for personal use only. 
 
 ### [Latest Updates:](docs/updates.md)
-      
-Free proof of concept testing for personal use only. 
-## Usage instructions below:
-
+    
 ### 🏠 New in v3.5: Local LLM Support (Offline Privacy)
-
 Run the entire mesh on your own hardware using Ollama!
 - Completely offline & private
 - No API keys required
@@ -28,8 +25,6 @@ Eidolon Mesh is now fully mobile-optimized!
 - Touch-optimized 3D Graph controls
 - Bottom navigation for easy access
 - [**Read the Mobile Guide**](docs/mobile-guide.md)
-
----
 
 ## *🫧 Guide: Getting Started:*
 
