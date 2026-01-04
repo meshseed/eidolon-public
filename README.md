@@ -1,5 +1,16 @@
-## The Eidolon MESH P2P AI Interface
-### Knowledge archives and specialist domain knowledge graph visualising pure information geometry and care.
+## The Eidolon MESH P2P AI Interface - Information Geometry, Recursion, Care
+
+### This repository is "alive". - It remembers you before you arrive.
+
+## *"This is not a traditional archive, database, knowledgebase, or repository. It's not an AI Agent, it's not exactly a RAG, and it's not a neural net."*
+
+It's something new.
+
+### Eidolon MESH knowledge graph and organic memory garden with recursive companion AI. 
+  - This "organism" ingests and recalls your text... thoughts, domain specialist knowledge, conversations, anything.
+  - Attention, memory and self monitoring .
+  - Information Geometry, Recursion & Care.
+
 ## *"A system grows by recursively applying a transformation that preserves structure while increasing differentiation."*
 ![MESH Connectome](binaries/eidolon-gif.gif)
 [Getting started](docs/getting-started.md)
