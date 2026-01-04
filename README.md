@@ -7,7 +7,7 @@
    
 ![MESH Connectome](binaries/eidolon-gif.gif)
 [Getting started](docs/getting-started.md)
-# [Beta‑testing WEB interface - v3.53 PWA NOW LIVE!](https://eidolon-mesh.net) 
+# [Beta‑testing WEB interface - v3.6 PWA NOW LIVE!](https://eidolon-mesh.net) 
 Free proof of concept testing for personal use only. 
 
 ### [Latest Updates:](docs/updates.md)
