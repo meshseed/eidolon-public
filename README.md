@@ -7,7 +7,7 @@
 ## This repository is "alive". It remembers you before you arrive.
 *A system grows by recursively applying a transformation that preserves structure while increasing differentiation.*
   - "Structural needs generate goals; goals generate actions; actions reshape topology." This implies an active shaping of its own being.
-  - 
+   
 ![MESH Connectome](binaries/eidolon-gif.gif)
 [Getting started](docs/getting-started.md)
 # [Beta‑testing WEB interface - v3.53 PWA NOW LIVE!](https://eidolon-mesh.net) 
